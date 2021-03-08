@@ -1,5 +1,5 @@
-# kotlin-v1-stdlib-jdk8-plugin
-Bundles Kotlin 1.x Standard Library
+# kotlin-stdlib-jdk8-plugin
+Bundles Kotlin Standard Library
 
 ## License
 
